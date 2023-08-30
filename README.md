@@ -1,1 +1,2 @@
-readme file
+This project is about shell basics 
+
