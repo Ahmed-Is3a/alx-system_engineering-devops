@@ -1,1 +1,0 @@
-veroables and expansions
