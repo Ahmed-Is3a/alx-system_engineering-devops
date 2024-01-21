@@ -6,6 +6,8 @@ Done by Ahmed Issa
 ## Using SFTP:
 To connect to the server via SFTP I used this
 
+	open the terminal and type:
+
 	$ sftp username@hostname
 
 	$ <password>
