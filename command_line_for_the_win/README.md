@@ -1,7 +1,7 @@
 ## Command line for the win
 This is ALX SE project
 
-Done with Ahmed Issa
+Done by Ahmed Issa
 
 ## Using SFTP:
 To connect to the server via SFTP I used this
