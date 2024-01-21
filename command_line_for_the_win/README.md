@@ -1,9 +1,9 @@
-# Command line for the win
+## Command line for the win
 This is ALX SE project
 Done with Ahmed Issa
 
-Using SFTP:
-To connect to the server via SFTP I used this 
+## Using SFTP:
+To connect to the server via SFTP I used this
 	$ sftp username@hostname
 	$ <password>
 To send files to the server I used this command:
