@@ -1,5 +1,7 @@
 # ALX System Engineering -DevOps   
+### Description  
 This repository is part of ALX SE program  
+At ALX School we do hard things. The main goal go this progarm is to be a better software enginner and to understand the concepts not just solving the Tasks. We have one-day projects; that is to keep you consistance, even log deadline projects, and team projects.
 
 # Projects  
 - 0x00-shell_basics   
