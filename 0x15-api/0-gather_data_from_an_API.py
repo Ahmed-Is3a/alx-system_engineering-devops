@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+""" gather data from api """
+
 import requests
 import sys
 
