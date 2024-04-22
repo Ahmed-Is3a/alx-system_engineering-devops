@@ -33,10 +33,10 @@ def fetch_employee_and_todos(employee_id):
     total_tasks = len(todos)
 
     # Print the output
-    print(f"Employee {employee_name} is done with "
-          f"tasks({number_of_done_tasks}/{total_tasks}):")
-    for task in completed_tasks:
-        print(f"\t {task['title']}")
+    # print(f"Employee {employee_name} is done with "
+    #       f"tasks({number_of_done_tasks}/{total_tasks}):")
+    # for task in completed_tasks:
+    #     print(f"\t {task['title']}")
 
     # Write to CSV
     csv_filename = f"{employee_id}.csv"
@@ -51,7 +51,7 @@ def fetch_employee_and_todos(employee_id):
                 todo['completed'],
                 todo['title']
             ])
-    print(f"Data has been written to {csv_filename}")
+    # print(f"Data has been written to {csv_filename}")
 
 
 if __name__ == "__main__":
