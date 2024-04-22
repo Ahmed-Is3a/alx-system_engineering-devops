@@ -16,8 +16,8 @@ frontend  cobby-frontend
         default_backend cobby-backend
 backend cobby-backend
         balance roundrobin
-        server 172299-web-01 54.197.120.35:80 check
-        server 172299-web-02 100.26.254.75:80 check
+        server 172299-web-01 54.158.212.45:80 check
+        server 172299-web-02 54.237.65.38:80 check
 "
 echo "$server_config" | sudo tee -a /etc/haproxy/haproxy.cfg
 
