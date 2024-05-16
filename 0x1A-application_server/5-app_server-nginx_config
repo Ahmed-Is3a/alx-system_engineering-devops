@@ -4,7 +4,7 @@ location /hbnb_static { alias /data/web_static/current/;}
                 listen [::]:80 default_server;
                 root /var/www/html;
                 index index.html index.htm index.nginx-debian.html
-                server_name_;
+                server_name 54.158.212.45;
                 add_header X-Served-By $hostname;
                 location /static/ {
                         # rewrite ^(/static/[^?]*)\?.*$ $1 last;
