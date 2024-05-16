@@ -1,4 +1,5 @@
 server {
+    # server for hbnb_static
                 listen 80 default_server;
 location /hbnb_static { alias /data/web_static/current/;}
                 listen [::]:80 default_server;
